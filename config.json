@@ -1,0 +1,18 @@
+{
+  "ollama_url": "http://localhost:11434",
+  "model": "llama3.1",
+  "categories": [
+    "Financial",
+    "Taxes",
+    "Legal",
+    "Business",
+    "Receipts",
+    "Insurance",
+    "Medical",
+    "Government",
+    "Education",
+    "Personal",
+    "Software",
+    "Misc"
+  ]
+}

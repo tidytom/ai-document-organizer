@@ -1,0 +1,7 @@
+requests
+PyMuPDF
+pandas
+openpyxl
+python-docx
+# Optional: lets pandas read old .xls Excel files
+xlrd

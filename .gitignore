@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Output this program writes (contains your file names)
+Logs/
+Processing_*/
+*_Organized/
+*.log
+3_ai_renaming_map.csv
